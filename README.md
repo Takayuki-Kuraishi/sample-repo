@@ -3,4 +3,4 @@
 changed in new-feature
 no-fast-forward
 conflict branch
-Github上で更新
+Github上で更新二回目
